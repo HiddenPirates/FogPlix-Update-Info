@@ -1,5 +1,5 @@
 {
-"version-name": "2.3",
-"version-code": "13",
-"changes-log": "- Play on the web player when playback error occures."
+"version-name": "2.4",
+"version-code": "14",
+"changes-log": "- Play on the web player when playback error occures. (Temporary fixed)"
 }
