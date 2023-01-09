@@ -1,5 +1,5 @@
 {
-"version-name": "2.5",
-"version-code": "15",
-"changes-log": "1) Fixed not playing episodes on the in built video player\r\n2) Improved buffering problem\r\n3) Now you can watch video on the web player if video is not playing in the in built video player"
+"version-name": "2.6",
+"version-code": "16",
+"changes-log": "1) Fixed not playing episodes on the in built video player\r\n2) Improved buffering problem\r\n3) Now you can watch video on the web player if video is not playing in the in built video player\r\n4) Added extra download option\r\n5) Fixed some reported and known bugs"
 }
