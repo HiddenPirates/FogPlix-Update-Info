@@ -1,4 +1,5 @@
 {
-"shouldShow" : true,
-"message": "Update version",
+  "shouldShow" : true,
+  "message": "Update version",
+  "targetVersionCode": 17
 }
