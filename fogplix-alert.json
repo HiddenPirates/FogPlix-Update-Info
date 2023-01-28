@@ -1,5 +1,5 @@
 {
   "shouldShow" : true,
   "message": "Update version",
-  "targetVersionCode": 17
+  "maxVersionCode": 17
 }
