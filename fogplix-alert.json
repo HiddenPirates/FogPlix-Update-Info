@@ -1,5 +1,5 @@
 {
-  "shouldShow" : false,
-  "message": "Update version",
-  "maxVersionCode": 17
+  "shouldShow" : true,
+  "message": "We are currently upgrading server. Please wait a few minutes if you are facing problem.",
+  "maxVersionCode": 20
 }
