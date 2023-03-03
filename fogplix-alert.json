@@ -1,5 +1,5 @@
 {
-  "shouldShow" : false,
+  "shouldShow" : true,
   "message": "We are currently facing server issue. Please wait a few hours untill it fixed. Sorry for that.",
-  "maxVersionCode": 21
+  "maxVersionCode": 23
 }
