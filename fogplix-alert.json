@@ -1,5 +1,5 @@
 {
-  "shouldShow" : false,
-  "message": "We are currently facing server issue. Please wait a few hours untill it fixed. Sorry for that.",
+  "shouldShow" : true,
+  "message": "We are upgrading server. Please wait few hours. FogPlix will not work for few hours.",
   "maxVersionCode": 23
 }
