@@ -1,5 +1,5 @@
 {
-  "shouldShow" : false,
-  "message": "We are upgrading server. Please wait few hours. FogPlix will not work for few hours.",
+  "shouldShow" : true,
+  "message": "It seems that you are using a old version. Please update this app to the latest version. Visit www.fogplix.com and download the latest build.",
   "maxVersionCode": 23
 }
